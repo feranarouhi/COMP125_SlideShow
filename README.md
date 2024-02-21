@@ -1,4 +1,5 @@
 • The hands-on project is a lightbox (slideshow) web app
+
 • A web app is built on four foundations:
 • HTML code—provides the app's container
 • CSS code—defines the app's appearance
